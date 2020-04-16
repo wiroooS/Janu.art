@@ -1,2 +1,2 @@
-# janu.art
-oraeruhopoopo
+#Python
+
