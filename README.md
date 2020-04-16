@@ -1,2 +1,2 @@
-# Python
+# janu.art
 
